@@ -6,7 +6,7 @@ author_profile: false
 permalink: /
 ---
 
-<!-- Load Google Fonts -->
+<!-- Load Google Font -->
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
 <style>
   html { scroll-behavior: smooth; }
@@ -141,21 +141,21 @@ permalink: /
 <div class="section-grid fade-in">
 
   <div class="card">
-    <img src="https://source.unsplash.com/400x200/?cybersecurity" alt="DevSecOps">
+    <img src="https://source.unsplash.com/400x200/?technology,dark" alt="DevSecOps">
     <h3>🔐 DevSecOps in Action</h3>
     <p>Designing secure CI/CD workflows with tools like Semgrep, Syft, and GitLab to catch vulnerabilities before they ship.</p>
     <a href="/blog/" class="btn btn--inverse">Explore Blog</a>
   </div>
 
   <div class="card">
-    <img src="https://source.unsplash.com/400x200/?homelab,server" alt="Home Lab">
+    <img src="https://source.unsplash.com/400x200/?server,rack" alt="Home Lab">
     <h3>🧪 Home Lab Stack</h3>
     <p>Proxmox, containers, scanners, and simulated threats — all running from a rig in the basement.</p>
     <a href="/resume/" class="btn btn--inverse">See Résumé</a>
   </div>
 
   <div class="card">
-    <img src="https://source.unsplash.com/400x200/?jiu-jitsu" alt="BJJ Mindset">
+    <img src="https://source.unsplash.com/400x200/?bjj" alt="BJJ Mindset">
     <h3>🥋 BJJ x Engineering</h3>
     <p>Resilience, calm under pressure, and flow state — the same principles apply on the mat and in technical leadership.</p>
     <a href="/about/" class="btn btn--inverse">Learn More</a>

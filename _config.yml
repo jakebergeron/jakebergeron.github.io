@@ -43,10 +43,6 @@ footer:
       icon: "fab fa-linkedin"
       url: "https://linkedin.com/in/jakebergeron"
 
-# Add Dark Mode
-minimal_mistakes_skin: "dark"
-enable_dark_mode: true
-
 
 # Sidebar Navigation
 sidebar:
