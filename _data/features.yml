@@ -1,0 +1,21 @@
+cta:
+  - image_path: https://source.unsplash.com/400x300/?devsecops
+    title: "Secure the Pipeline"
+    excerpt: "Explore practical DevSecOps workflows, open-source tools, and real-world automation setups."
+    url: "/blog/"
+    btn_label: "Start Reading"
+    btn_class: "btn--primary"
+
+  - image_path: https://source.unsplash.com/400x300/?jiu-jitsu
+    title: "BJJ & Security Engineering"
+    excerpt: "How Jiu-Jitsu mindset helps me solve complex engineering challenges and stay calm in chaos."
+    url: "/blog/"
+    btn_label: "Explore Posts"
+    btn_class: "btn--primary"
+
+  - image_path: https://source.unsplash.com/400x300/?server,homelab
+    title: "Inside the Lab"
+    excerpt: "A look at my home lab setup — from GitLab CI/CD and Proxmox to synthetic vulnerability pipelines."
+    url: "/resume/"
+    btn_label: "View Résumé"
+    btn_class: "btn--primary"

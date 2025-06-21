@@ -1,29 +1,40 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
-date:   2025-06-19 10:46:51 -0400
-categories: jekyll update
+title: "Welcome to the Lab"
+date: 2025-06-20
+layout: single
+author_profile: true
+tags: [intro, devsecops, linux, jekyll]
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+Hey there — I’m Jake Bergeron.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+I decided to spin up this site as a place to share thoughts, tools, and personal projects around the things I live and breathe every day: **DevSecOps**, **Linux tinkering**, and the never-ending quest to automate away the boring stuff.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I spend my days solving problems as a Solutions Engineer in cybersecurity, and my nights elbow-deep in home lab experiments, Jiu-Jitsu mat burns, and fishing gear. This blog is where all that intersects — part notebook, part storytelling, and part resource hub.
 
-Jekyll also offers powerful support for code snippets:
+### What to Expect Here
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+This space will grow with content like:
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+- Real-world DevSecOps workflows and demos  
+- Vulnerability simulation and ASPM tools  
+- GitLab, CI/CD, and automation tricks  
+- Home lab setup deep dives  
+- Mindset lessons from Brazilian Jiu-Jitsu  
+- Occasional espresso-fueled hot takes
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+If you're into hacking together tools, building clean pipelines, or just want to learn how to build cool things securely — welcome.
+
+### Coming Soon
+
+I’ll be sharing more about:
+
+- My GitHub Pages + Jekyll setup (the one powering this site)
+- Simulating realistic security findings with open-source tools
+- How Brazilian Jiu-Jitsu makes me a better technologist
+
+Thanks for reading — and if you ever want to nerd out or collaborate, [get in touch](/contact/).
+
+---
+
+_Let’s build something breakable. Then fix it._

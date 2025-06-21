@@ -1,21 +1,19 @@
-title: "Jake Bergeron"
+title: Jake Bergeron
 description: "Solutions Engineer • DevSecOps • BJJ Nerd"
 url: "https://jakebergeron.github.io"
-baseurl: ""  # leave empty for GitHub Pages
+baseurl: ""
 
 remote_theme: "mmistakes/minimal-mistakes"
 
-author:
-  name   : "Jake Bergeron"
-  avatar : "/assets/images/your-photo.jpg"
-  bio    : "Linux nerd. Building cool stuff in security and automation."
-  location: "Maine, USA"
+minimal_mistakes_skin: "dark"
+enable_dark_mode: true
 
-# Enable plugins
 plugins:
+  - jekyll-include-cache
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-include-cache
+  - jekyll-sitemap
+  - jekyll-remote-theme # ← Required for skins to work on GitHub Pages
 
 collections:
   pages:
@@ -44,3 +42,27 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://linkedin.com/in/jakebergeron"
+
+# Add Dark Mode
+minimal_mistakes_skin: "dark"
+enable_dark_mode: true
+
+
+# Sidebar Navigation
+sidebar:
+  nav: "main"
+# Social Media
+social:
+  - label: "GitHub"
+    icon: "fab fa-github"
+    url: "https://github.com/jakebergeron"
+  - label: "LinkedIn"
+    icon: "fab fa-linkedin"
+    url: "https://linkedin.com/in/jakebergeron"
+# SEO Settings
+seo:
+  title: "Jake Bergeron"
+  description: "Solutions Engineer • DevSecOps • BJJ Nerd"
+  keywords: "DevSecOps, Solutions Engineer, BJJ, Linux, Automation"
+  url: "https://jakebergeron.github.io"
+  image: "/assets/images/your-photo.jpg"
