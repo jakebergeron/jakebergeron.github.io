@@ -17,6 +17,11 @@ plugins:
   - jekyll-seo-tag
   - jekyll-include-cache
 
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
 # Navigation
 navigation:
   - title: "Home"
